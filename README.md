@@ -1,5 +1,7 @@
 # hand_written_digit
 
+* Project for Final Examination
+
 Handwritten Digits Recognition using Evolutionary Algorithms
 This repository contains a Python project that implements handwritten digits recognition using evolutionary algorithms. 
 The goal of this project is to develop a system that can recognize and classify handwritten digits from the MNIST dataset using evolutionary algorithms.
